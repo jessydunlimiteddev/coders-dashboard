@@ -1,0 +1,8 @@
+
+{
+  "name": "Coders Glass Dashboard",
+  "description": "A high-fidelity replica of a sophisticated project management dashboard featuring glassmorphism, dark mode accents, and advanced data visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
